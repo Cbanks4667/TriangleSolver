@@ -31,16 +31,16 @@ namespace CBAssignment2
             
             if ((a + b) < c)
             {
-                return "Invalid triangle";
+                return "Invalid";
 
             }
             else if ((a + c) < b)
             {
-                return "Invalid triangle";
+                return "Invalid";
             }
             else if ((b + c) < a)
             {
-                return "Invalid triangle";
+                return "Invalid";
             }
 
             if ((a == b) && (a == c))
