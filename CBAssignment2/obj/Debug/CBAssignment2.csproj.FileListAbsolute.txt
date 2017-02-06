@@ -1,0 +1,6 @@
+C:\Users\guywi\Desktop\Semester 4\PROG2070_Programming_Quality_Assurance\Assignments\A2\CBAssignment2\CBAssignment2\bin\Debug\CBAssignment2.exe.config
+C:\Users\guywi\Desktop\Semester 4\PROG2070_Programming_Quality_Assurance\Assignments\A2\CBAssignment2\CBAssignment2\bin\Debug\CBAssignment2.exe
+C:\Users\guywi\Desktop\Semester 4\PROG2070_Programming_Quality_Assurance\Assignments\A2\CBAssignment2\CBAssignment2\bin\Debug\CBAssignment2.pdb
+C:\Users\guywi\Desktop\Semester 4\PROG2070_Programming_Quality_Assurance\Assignments\A2\CBAssignment2\CBAssignment2\obj\Debug\CBAssignment2.csprojResolveAssemblyReference.cache
+C:\Users\guywi\Desktop\Semester 4\PROG2070_Programming_Quality_Assurance\Assignments\A2\CBAssignment2\CBAssignment2\obj\Debug\CBAssignment2.exe
+C:\Users\guywi\Desktop\Semester 4\PROG2070_Programming_Quality_Assurance\Assignments\A2\CBAssignment2\CBAssignment2\obj\Debug\CBAssignment2.pdb
