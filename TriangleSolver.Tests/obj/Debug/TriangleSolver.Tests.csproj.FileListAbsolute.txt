@@ -1,0 +1,9 @@
+C:\Users\guywi\Desktop\Semester 4\PROG2070_Programming_Quality_Assurance\Assignments\A2\CBAssignment2\TriangleSolver.Tests\bin\Debug\TriangleSolver.Tests.dll
+C:\Users\guywi\Desktop\Semester 4\PROG2070_Programming_Quality_Assurance\Assignments\A2\CBAssignment2\TriangleSolver.Tests\bin\Debug\TriangleSolver.Tests.pdb
+C:\Users\guywi\Desktop\Semester 4\PROG2070_Programming_Quality_Assurance\Assignments\A2\CBAssignment2\TriangleSolver.Tests\bin\Debug\CBAssignment2.exe
+C:\Users\guywi\Desktop\Semester 4\PROG2070_Programming_Quality_Assurance\Assignments\A2\CBAssignment2\TriangleSolver.Tests\bin\Debug\nunit.framework.dll
+C:\Users\guywi\Desktop\Semester 4\PROG2070_Programming_Quality_Assurance\Assignments\A2\CBAssignment2\TriangleSolver.Tests\bin\Debug\CBAssignment2.pdb
+C:\Users\guywi\Desktop\Semester 4\PROG2070_Programming_Quality_Assurance\Assignments\A2\CBAssignment2\TriangleSolver.Tests\bin\Debug\nunit.framework.xml
+C:\Users\guywi\Desktop\Semester 4\PROG2070_Programming_Quality_Assurance\Assignments\A2\CBAssignment2\TriangleSolver.Tests\obj\Debug\TriangleSolver.Tests.csprojResolveAssemblyReference.cache
+C:\Users\guywi\Desktop\Semester 4\PROG2070_Programming_Quality_Assurance\Assignments\A2\CBAssignment2\TriangleSolver.Tests\obj\Debug\TriangleSolver.Tests.dll
+C:\Users\guywi\Desktop\Semester 4\PROG2070_Programming_Quality_Assurance\Assignments\A2\CBAssignment2\TriangleSolver.Tests\obj\Debug\TriangleSolver.Tests.pdb

@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--This file represents the results of running a test suite-->
+<test-results name="C:\Users\guywi\Desktop\Semester 4\PROG2070_Programming_Quality_Assurance\Assignments\A2\CBAssignment2\TriangleSolver.Tests\bin\Debug\TriangleSolver.Tests.dll" total="8" errors="0" failures="0" not-run="0" inconclusive="0" ignored="0" skipped="0" invalid="0" date="2017-02-06" time="17:52:47">
+  <environment nunit-version="2.6.4.14350" clr-version="2.0.50727.8745" os-version="Microsoft Windows NT 6.2.9200.0" platform="Win32NT" cwd="C:\NUnit-2.6.4\bin" machine-name="LAPTOP-DL8MQHMC" user="guywi" user-domain="LAPTOP-DL8MQHMC" />
+  <culture-info current-culture="en-CA" current-uiculture="en-US" />
+  <test-suite type="Assembly" name="C:\Users\guywi\Desktop\Semester 4\PROG2070_Programming_Quality_Assurance\Assignments\A2\CBAssignment2\TriangleSolver.Tests\bin\Debug\TriangleSolver.Tests.dll" executed="True" result="Success" success="True" time="0.121" asserts="0">
+    <results>
+      <test-suite type="Namespace" name="TriangleSolver" executed="True" result="Success" success="True" time="0.109" asserts="0">
+        <results>
+          <test-suite type="Namespace" name="Tests" executed="True" result="Success" success="True" time="0.108" asserts="0">
+            <results>
+              <test-suite type="TestFixture" name="TriangleSolverTests" executed="True" result="Success" success="True" time="0.081" asserts="0">
+                <results>
+                  <test-case name="TriangleSolver.Tests.TriangleSolverTests.analyzeMethod_Given_1_2_2_ResultIs_Isosceles" executed="True" result="Success" success="True" time="0.027" asserts="1" />
+                  <test-case name="TriangleSolver.Tests.TriangleSolverTests.analyzeMethod_Given_1_2_3_ResultIs_Scalene" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                  <test-case name="TriangleSolver.Tests.TriangleSolverTests.analyzeMethod_Given_100_5_2_ResultIs_Invalid" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                  <test-case name="TriangleSolver.Tests.TriangleSolverTests.analyzeMethod_Given_4_1_4_ResultIs_Isosceles" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                  <test-case name="TriangleSolver.Tests.TriangleSolverTests.analyzeMethod_Given_5_100_2_ResultIs_Invalid" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                  <test-case name="TriangleSolver.Tests.TriangleSolverTests.analyzeMethod_Given_5_2_100_ResultIs_Invalid" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                  <test-case name="TriangleSolver.Tests.TriangleSolverTests.analyzeMethod_Given_5_5_2_ResultIs_Isosceles" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                  <test-case name="TriangleSolver.Tests.TriangleSolverTests.analyzeMethod_Given_8_8_8_ResultIs_Equilateral" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                </results>
+              </test-suite>
+            </results>
+          </test-suite>
+        </results>
+      </test-suite>
+    </results>
+  </test-suite>
+</test-results>

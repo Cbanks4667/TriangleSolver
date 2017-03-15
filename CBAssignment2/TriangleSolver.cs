@@ -28,19 +28,11 @@ namespace CBAssignment2
         /// <returns></returns>
         public static string Analyze(int a, int b, int c)
         {
-            
-            if ((a + b) < c)
+
+            if (((a + b) <= c) || ((a + c) <= b) || ((b + c) <= a))
             {
                 return "Invalid";
 
-            }
-            else if ((a + c) < b)
-            {
-                return "Invalid";
-            }
-            else if ((b + c) < a)
-            {
-                return "Invalid";
             }
 
             if ((a == b) && (a == c))
